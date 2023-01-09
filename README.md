@@ -16,5 +16,5 @@ private_key = "xxxxxxx"
 
 2、配置好python环境后，运行 
 
-3、del_3day_images.py是配套脚本，删除3天以前的镜像。 
+3、del_3day_images.py是配套脚本，删除3天以前的镜像。 效果如下：  
 <img>https://i.328888.xyz/2023/01/09/0penA.jpeg</img>
